@@ -13,3 +13,4 @@ package-lock.json
 *.iml
 *.ipr
 *.DS_Store
+*.xml
