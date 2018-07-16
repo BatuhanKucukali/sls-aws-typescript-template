@@ -19,7 +19,7 @@ cd sls-aws-typescript-template
 ```
 npm install
 ```
-4 . Run Test
+4 . Run
 ```
 serverless offline start
 ```
