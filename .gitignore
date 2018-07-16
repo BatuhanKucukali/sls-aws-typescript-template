@@ -1,11 +1,15 @@
-# package directories
+### Package Directories ###
 node_modules
 jspm_packages
 .build
 package-lock.json
 
-# Serverless directories
+### Serverless Directories ###
 .serverless
 
-# Ide
+### IntelliJ IDEA ###
 .idea
+*.iws
+*.iml
+*.ipr
+*.DS_Store
