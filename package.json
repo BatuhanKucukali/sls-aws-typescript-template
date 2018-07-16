@@ -1,0 +1,16 @@
+{
+  "name": "aws-example-ts",
+  "version": "1.0.0",
+  "description": "AWS Serverless Typescript Example",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Batuhan Kucukali",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/aws-lambda": "^8.10.7",
+    "serverless-offline": "^3.25.6",
+    "serverless-plugin-typescript": "^1.1.5"
+  }
+}
